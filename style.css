@@ -24,6 +24,7 @@
   background-color: skyblue;
   position: fixed;
   top: 0;
+  z-index: 99999999;
 
 
 
@@ -138,7 +139,7 @@ margin-top: 80px;
 
 .box2 img{
   float: right;
-  padding-top: 45px;
+  padding-top: 15px;
   padding-right: 0px;
 
 
@@ -552,3 +553,12 @@ color: #0c325a;
   float: right;
   font-family: 'Roboto Condensed', sans-serif;
   color: white;
+}
+
+.container2 hr{
+  margin-left: 140px;
+  width: 1000px;
+
+
+
+}
